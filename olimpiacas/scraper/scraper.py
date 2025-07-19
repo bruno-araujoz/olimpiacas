@@ -9,7 +9,7 @@ load_dotenv()
 
 SIGLAS = ["OBM", "OBMEP", "OBQ", "OBB"]
 
-genai.configure(api_key=os.getenv("AIzaSyBTfhxXptQLh0fipjEFhQQcY-OaNHpxEt8"))
+genai.configure(api_key=os.getenv(""))
 modelo = genai.GenerativeModel("gemini-pro")
 
 for sigla in SIGLAS:
