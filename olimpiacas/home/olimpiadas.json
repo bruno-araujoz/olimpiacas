@@ -1,0 +1,69 @@
+{
+  "olimpiadas": [
+    {
+      "sigla": "OBMEP",
+      "nome": "Olimpíada Brasileira de Matemática das Escolas Públicas",
+      "area": "Matemática",
+      "publico": "Ensino Fundamental II e Médio de escolas públicas e privadas",
+      "descricao": "A maior olimpíada estudantil do Brasil, voltada para popularização da matemática.",
+      "como_preparar": [
+        "Resolver provas anteriores",
+        "Assistir videoaulas (ex.: OBMEPflix, Ferretto)",
+        "Estudar livros de problemas e raciocínio lógico"
+      ],
+      "links": {
+        "site_oficial": "https://www.obmep.org.br",
+        "provas_anteriores": "https://www.obmep.org.br/provas.htm",
+        "materiais_extras": "https://www.obmep.org.br/material.htm"
+      }
+    },
+    {
+      "sigla": "OBM",
+      "nome": "Olimpíada Brasileira de Matemática",
+      "area": "Matemática",
+      "publico": "Fundamental II, Médio e universitários",
+      "descricao": "Tradicional olimpíada nacional, seletiva para competições internacionais como a IMO.",
+      "como_preparar": [
+        "Estudar provas antigas e resoluções",
+        "Ler livros como 'Problemas Selecionados da OBM'",
+        "Participar de grupos de estudo online"
+      ],
+      "links": {
+        "site_oficial": "https://www.obm.org.br",
+        "provas_anteriores": "https://www.obm.org.br/provas-antigas/"
+      }
+    },
+    {
+      "sigla": "OBQ",
+      "nome": "Olimpíada Brasileira de Química",
+      "area": "Química",
+      "publico": "Ensino Médio",
+      "descricao": "Competições teóricas e experimentais; classificatória para olimpíadas internacionais.",
+      "como_preparar": [
+        "Resolver provas antigas",
+        "Estudar livros como 'Química: A Ciência Central'",
+        "Assistir videoaulas especializadas"
+      ],
+      "links": {
+        "site_oficial": "https://www.obquimica.org",
+        "provas_anteriores": "https://www.obquimica.org/provas-e-gabaritos"
+      }
+    },
+    {
+      "sigla": "OBB",
+      "nome": "Olimpíada Brasileira de Biologia",
+      "area": "Biologia",
+      "publico": "Ensino Médio",
+      "descricao": "Abrange Botânica, Zoologia, Genética, Ecologia e temas atuais em biologia.",
+      "como_preparar": [
+        "Fazer resumos e mapas mentais",
+        "Resolver provas anteriores",
+        "Estudar livros didáticos e assistir videoaulas"
+      ],
+      "links": {
+        "site_oficial": "https://www.anbiojovem.org.br",
+        "provas_anteriores": "https://www.anbiojovem.org.br/obb-provas"
+      }
+    }
+  ]
+}
